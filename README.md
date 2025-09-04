@@ -1,232 +1,397 @@
 # 🧠 AI Agent Portfolio
 
-Welcome to my collection of AI-powered solutions designed to streamline workflows and enhance productivity. As a Senior Scrum Master/Program Manager with over 15 years of experience in technology and process optimization, I've created these intelligent agents to solve real-world business challenges through automation and AI.
+Welcome to my comprehensive collection of AI agents designed to streamline workflows, enhance productivity, and automate complex tasks. As a Senior Scrum Master and Agile Coach with over 15 years of experience in technology and process optimization, I've created these intelligent solutions to solve real-world business challenges through the power of artificial intelligence.
 
 ---
 
 ## 🚀 Featured AI Agents
 
-### Social Media Post Generator Agent  
-**Description**: A simple AI agent that can take a single user input (a topic) and generates different social media post ideas.
+### Webpage Summarizer Agent  
+**Description**: An intelligent agent that can summarize webpages, PDFs, and YouTube videos instantly through a convenient browser extension.
 
-**Use Case**: Perfect for marketing teams and content creators who need fresh social media content ideas quickly. Simply input "sustainable technology" and get multiple engaging post variations for different platforms.
+**Use Case**: Perfect for researchers, students, and professionals who need to quickly extract key insights from lengthy content without reading through entire documents.
 
 **Key Features:**
-- Single topic input generates multiple post variations
-- Suitable for various social media platforms
-- Quick ideation for content creators
+- Multi-format content processing (web, PDF, video)
+- Browser extension integration
+- Instant summarization
+- Time-saving content analysis
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/social-media-post-ideas-generator-c235b922)
+[🔗 Try it out](https://app.mindstudio.ai/agents/-1-tldr-any-page-26b01b77)
 
 ---
 
-### Sales Outreach Assistant Agent
-**Description**: An agent for sales teams that can help them write personalized cold outreach emails to potential customers. It can analyze information about target companies, identify potential needs, and then draft tailored emails and subject lines.
+### Email Thread Analyzer
+**Description**: Analyzes complex email threads and provides comprehensive summary reports to help you stay on top of important communications.
 
-**Use Case**: Sales professionals can input company information and receive personalized outreach emails that address specific pain points and opportunities for their prospects.
+**Use Case**: Ideal for busy executives and project managers who receive lengthy email chains and need quick understanding of key decisions and action items.
 
 **Key Features:**
-- Company analysis and needs identification
-- Personalized email drafting
-- Custom subject line generation
-- Tailored messaging for target audiences
+- Thread content analysis
+- Summary generation
+- Key point extraction
+- Communication insights
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/sales-outreach-assistant-agent-035a64b1)
+[🔗 Try it out](https://app.mindstudio.ai/agents/2-email-thread-summarizer-58783364)
+
+---
+
+### Enhanced Blog Post Generator Agent
+**Description**: Creates engaging, well-structured blog posts on any topic you specify, from technical subjects like cars and technology to scientific topics like black holes and solar systems.
+
+**Use Case**: Content creators, marketers, and businesses can generate high-quality blog content quickly for their websites and marketing campaigns.
+
+**Key Features:**
+- Topic-based content generation
+- SEO-optimized structure
+- Engaging writing style
+- Versatile subject coverage
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/3-blog-post-generator-c5d09487)
+
+---
+
+### Dynamic Content Creator
+**Description**: Analyzes webpage content and generates customized content in your specified tone and style, triggered directly from your browser.
+
+**Use Case**: Marketing teams can quickly adapt existing content for different audiences and platforms while maintaining brand consistency.
+
+**Key Features:**
+- Webpage content analysis
+- Tone customization
+- Browser extension integration
+- Dynamic content adaptation
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/4-dynamic-content-creator-df35ec4c/run
+
+---
+
+### YouTube Video & Comments Summarizer
+**Description**: Provides comprehensive summaries of YouTube videos along with analysis of viewer comments to give you complete context.
+
+**Use Case**: Market researchers and content creators can quickly understand video content and audience sentiment without watching entire videos.
+
+**Key Features:**
+- Video content summarization
+- Comment analysis
+- Browser integration
+- Audience sentiment insights
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/5-summarize-youtube-video--comments-83595e52)
+
+---
+
+### Home Page FAQ Generator
+**Description**: Automatically generates relevant FAQs for any product or service homepage in seconds using browser extension integration.
+
+**Use Case**: Web developers and product managers can quickly create comprehensive FAQ sections that address common customer questions.
+
+**Key Features:**
+- Homepage analysis
+- Automatic FAQ generation
+- Browser extension trigger
+- Customer-focused questions
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/6-home-page-faq-generator-6edc1b4b)
+
+---
+
+### Personalized Cold Outreach Email Generator
+**Description**: Creates highly personalized cold outreach emails based on lead company information to improve response rates and engagement.
+
+**Use Case**: Sales teams and business developers can craft compelling, personalized outreach messages that resonate with potential clients.
+
+**Key Features:**
+- Company information analysis
+- Personalized messaging
+- Direct email generation
+- Lead-focused content
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/7-personalized-cold-outreach-email-generator-035a64b1)
+
+---
+
+### Ask the Doc - Chat Bot
+**Description**: A RAG (Retrieval-Augmented Generation) system built on Mindstudio Knowledge repository for answering questions about Mindstudio platform and features.
+
+**Use Case**: Users can get instant answers to technical questions about Mindstudio without searching through documentation.
+
+**Key Features:**
+- RAG system implementation
+- Knowledge base integration
+- Interactive chat interface
+- Platform-specific expertise
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/8-ask-the-doc--chat-bot-3382c4e9)
+
+---
+
+### People Extractor & Database Agent
+**Description**: Extracts detailed information about people mentioned on any webpage and automatically saves the data to Google Sheets for easy management.
+
+**Use Case**: HR professionals and researchers can quickly build databases of contacts and leads from various web sources.
+
+**Key Features:**
+- Webpage people extraction
+- Google Sheets integration
+- Automated data saving
+- Contact information parsing
+
+[🔗 Try it out](http://app.mindstudio.ai/agents/9-extract-details--send-to-db-7ef5d6f1)
+
+---
+
+### LinkedIn Post Generator
+**Description**: Creates professional LinkedIn posts based on webpage content with built-in review and approval workflow before publishing.
+
+**Use Case**: Social media managers and professionals can maintain consistent LinkedIn presence by transforming web content into engaging posts.
+
+**Key Features:**
+- Webpage content analysis
+- Professional tone optimization
+- Review and approval process
+- LinkedIn-specific formatting
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/10-linkedin-post-generator-174e0e3d)
+
+---
+
+### Website Change Monitor
+**Description**: Continuously monitors specified webpages for changes and sends summarized email updates about modifications on a daily schedule.
+
+**Use Case**: Business analysts and competitive intelligence teams can stay informed about competitor updates and industry changes automatically.
+
+**Key Features:**
+- Automated webpage monitoring
+- Daily scheduled reports
+- Change summarization
+- Email notifications
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/11-monitor-website-changes-790fbf10)
+
+---
+
+### Email Thread Response Assistant
+**Description**: Analyzes incoming email threads and generates contextually appropriate reply drafts with personalized tone and context understanding.
+
+**Use Case**: Busy executives can maintain professional email communication with AI-generated responses that match their communication style.
+
+**Key Features:**
+- Email thread analysis
+- Contextual response generation
+- Tone personalization
+- Inbox integration
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/12-email-thread-summary-and-response-draft-a6d4a627)
+
+---
+
+### Slack Channel Weekly Summary
+**Description**: Extracts and summarizes all content from configured Slack channels, providing weekly digest reports via direct message or channel posting.
+
+**Use Case**: Team leads can stay updated on multiple channel discussions without manually reading through hundreds of messages.
+
+**Key Features:**
+- Slack channel integration
+- Weekly summary generation
+- Multi-channel support
+- Flexible delivery options
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/13-slack-channel-weekly-summarizer-a7e15ce4)
+
+---
+
+### Daily News Digest Generator
+**Description**: Generates and delivers personalized daily news digests on specific topics directly to your email inbox.
+
+**Use Case**: Professionals can stay informed about industry trends and news relevant to their field without manually browsing multiple news sources.
+
+**Key Features:**
+- Topic-specific news curation
+- Daily automated delivery
+- Email integration
+- Personalized content
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/14-generate-and-send-a-daily-news-digest-via-emai-4658b57f)
+
+---
+
+### Research Report Generator
+**Description**: Creates comprehensive research reports in HTML format on any specified research topic with structured analysis and findings.
+
+**Use Case**: Researchers, students, and analysts can quickly generate professional research reports for academic or business purposes.
+
+**Key Features:**
+- Topic-based research
+- HTML report formatting
+- Comprehensive analysis
+- Professional structure
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/15-research-report-generator-9e58bac0)
+
+---
+
+### Customer Feedback Analyzer
+**Description**: Extracts and structures customer review data, presenting insights in organized JSON format for easy analysis and decision-making.
+
+**Use Case**: Product managers can quickly understand customer sentiment and identify improvement areas from review data.
+
+**Key Features:**
+- Review data extraction
+- Structured JSON output
+- Sentiment analysis
+- Key insight identification
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/16-the-customer-feedback-analyzer-2d83d427)
+
+---
+
+### Content Repurpose Agent
+**Description**: Transforms blog post content into multiple formats including social media posts and email content for cross-platform marketing.
+
+**Use Case**: Content marketers can maximize their content ROI by automatically adapting single pieces into multiple marketing channels.
+
+**Key Features:**
+- Multi-format content generation
+- Platform optimization
+- Content adaptation
+- Marketing efficiency
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/the-content-repurpose-agent-93deb03d)
+
+---
+
+### Professional Email Assistant
+**Description**: Drafts professional emails with appropriate business tone and structure for various corporate communication needs.
+
+**Use Case**: Professionals can ensure their email communication maintains consistent professionalism and clarity across all business interactions.
+
+**Key Features:**
+- Professional tone optimization
+- Business email structure
+- Communication clarity
+- Corporate standards compliance
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/the-professional-email-assistant-1effadee)
+
+---
+
+### Mini Documentary Creator
+**Description**: Creates engaging mini documentary video clips on user-specified topics with professional narration and visual elements.
+
+**Use Case**: Educators and content creators can produce educational video content quickly for training materials or social media engagement.
+
+**Key Features:**
+- Video content generation
+- Topic-based creation
+- Professional production quality
+- Educational focus
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/the-mini-documentary-creator-3c277d43)
+
+---
+
+### AI Recipe Assistant with Audio
+**Description**: Generates unique audio recipe guides based on available ingredients, providing step-by-step cooking instructions with voice narration.
+
+**Use Case**: Home cooks can get personalized recipe suggestions and hands-free cooking guidance using ingredients they already have.
+
+**Key Features:**
+- Ingredient-based recipes
+- Audio narration
+- Step-by-step guidance
+- Hands-free cooking support
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/ai-recipe-assistant-a030f314)
+
+---
+
+### Fitness Plan Builder Agent
+**Description**: Creates detailed, personalized fitness plans based on individual goals and available workout days with comprehensive exercise routines.
+
+**Use Case**: Fitness enthusiasts and personal trainers can generate customized workout programs tailored to specific goals and schedules.
+
+**Key Features:**
+- Goal-based planning
+- Schedule customization
+- Detailed exercise routines
+- Progress tracking support
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/fitness-plan-builder-agent-b8d96862)
+
+---
+
+### Job Description Extractor
+**Description**: Helps job seekers optimize their resumes by extracting key requirements and important keywords from job postings for better application matching.
+
+**Use Case**: Job seekers can tailor their resumes more effectively by understanding exactly what employers are looking for in specific positions.
+
+**Key Features:**
+- Keyword extraction
+- Requirement analysis
+- Resume optimization support
+- Application matching
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/22-hr-job-description-generator-agent-cae08245)
 
 ---
 
 ### Recipe Idea Agent
-**Description**: A simple agent that can generate recipe ideas from ingredients.
+**Description**: Generates creative recipe suggestions based on available ingredients, helping reduce food waste and inspire cooking creativity.
 
-**Use Case**: Home cooks can input available ingredients from their pantry and receive creative recipe suggestions, reducing food waste and meal planning time.
+**Use Case**: Home cooks can discover new meal ideas using ingredients they already have, reducing grocery costs and food waste.
 
 **Key Features:**
-- Ingredient-based recipe generation
-- Creative cooking suggestions
-- Reduces food waste
-- Quick meal planning solution
+- Ingredient-based suggestions
+- Creative recipe generation
+- Waste reduction focus
+- Cooking inspiration
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/recipe-idea-agent-ca68d03e)
 
 ---
 
 ### Professional Email Assistant Agent
-**Description**: A simple AI agent that writes a professional email given a subject.
+**Description**: Writes professional emails with appropriate business tone and structure based on provided subject lines and context.
 
-**Use Case**: Business professionals can input an email subject and receive a well-structured, professional email draft, saving time on business correspondence.
+**Use Case**: Business professionals can ensure consistent, professional communication across all email interactions with clients and colleagues.
 
 **Key Features:**
-- Subject-to-email generation
-- Professional tone and structure
-- Business communication optimization
-- Time-saving email drafting
+- Subject-based email generation
+- Professional tone maintenance
+- Business communication standards
+- Context-aware writing
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/professional-email-assistant-814ce408)
 
 ---
 
 ### Product Description Agent
-**Description**: Agent that can generate an engaging e-commerce product description based on high level product details and target audience.
+**Description**: Creates compelling e-commerce product descriptions that engage target audiences and drive conversions based on product details and customer demographics.
 
-**Use Case**: E-commerce businesses can input basic product information and target demographics to receive compelling product descriptions that drive conversions.
+**Use Case**: E-commerce businesses can generate persuasive product descriptions that resonate with their target market and improve sales conversion rates.
 
 **Key Features:**
-- Target audience-specific messaging
-- Engaging e-commerce copy generation
-- Conversion-optimized descriptions
-- Brand voice consistency
+- Target audience optimization
+- Conversion-focused writing
+- Product detail integration
+- E-commerce optimization
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/product-description-agent-46ab5a1a)
 
 ---
 
-### My Recipe Bot
-**Description**: Agent that can build recipes from the provided ingredients.
+## 📬 Contact Me
 
-**Use Case**: Similar to the Recipe Idea Agent, this bot helps users create complete recipes with step-by-step instructions based on available ingredients.
+Ready to transform your business processes with custom AI solutions? With my background in agile transformation, process optimization, and technology leadership, I specialize in creating AI agents that solve real business challenges.
 
-**Key Features:**
-- Complete recipe building
-- Step-by-step cooking instructions
-- Ingredient optimization
-- Cooking guidance
+**I can help you with:**
+- **Custom AI agent development**
+- **Workflow automation solutions**
+- **Process optimization through AI**
+- **Integration with existing business systems**
+- **Agile implementation of AI solutions**
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/my-recipe-bot-27adcb60)
+[📧 Email me](mailto:kamalboro303@gmail.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/kamal-boro)
 
----
-
-### Key Points Extractor Agent
-**Description**: A simple agent to extract key points from a webpage, PDF, or YouTube video.
-
-**Use Case**: Researchers and professionals can quickly extract essential information from long-form content, saving hours of manual review and note-taking.
-
-**Key Features:**
-- Multi-format content processing (web, PDF, video)
-- Key information extraction
-- Time-saving content analysis
-- Research efficiency optimization
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/key-points-extractor-d06d0531)
-
----
-
-### Job Description Generator Agent
-**Description**: Agent that can create detailed job descriptions with key responsibilities and required skills based on the job role.
-
-**Use Case**: HR professionals and hiring managers can input a job title and receive comprehensive job descriptions with responsibilities, requirements, and qualifications.
-
-**Key Features:**
-- Role-based job description creation
-- Key responsibilities identification
-- Required skills specification
-- HR workflow optimization
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/job-description-generator-agent-cae08245)
-
----
-
-### Jargon Buster Agent
-**Description**: Agent that can read a complex or technical document and simplify the jargon for a beginner.
-
-**Use Case**: Perfect for making technical documentation accessible to non-technical stakeholders or onboarding new team members to complex projects.
-
-**Key Features:**
-- Technical document simplification
-- Jargon translation for beginners
-- Accessibility improvement
-- Knowledge transfer facilitation
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/jargon-buster-1a0fca35)
-
----
-
-### Haiku Bot
-**Description**: A simple agent that can create Haiku poems.
-
-**Use Case**: Writers, educators, and creative professionals can generate beautiful haiku poems for artistic projects, educational content, or creative inspiration.
-
-**Key Features:**
-- Traditional haiku structure (5-7-5 syllables)
-- Creative poetry generation
-- Artistic inspiration tool
-- Educational content creation
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/haiku-bot-aed450e7)
-
----
-
-### Fitness Plan Builder Agent
-**Description**: Agent that can build detailed fitness plans based on person's fitness goals and workout days.
-
-**Use Case**: Fitness enthusiasts can input their goals and available workout days to receive personalized fitness routines tailored to their schedule and objectives.
-
-**Key Features:**
-- Personalized fitness planning
-- Goal-based workout creation
-- Schedule optimization
-- Health and wellness support
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/fitness-plan-builder-agent-b8d96862)
-
----
-
-### Enhanced Blog Post Generator Agent
-**Description**: Given a topic, this agent will generate a blog post (e.g. Cars, Blackhole, Solar system etc.).
-
-**Use Case**: Content creators and marketers can input any topic and receive well-structured, informative blog posts ready for publication or further editing.
-
-**Key Features:**
-- Topic-based blog generation
-- Well-structured content creation
-- SEO-friendly formatting
-- Content marketing support
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/enhanced-blog-post-generator-c5d09487)
-
----
-
-### Email Tone Analyzer Agent
-**Description**: Agent that can summarize the tone of an email (Formal/friendly/urgent/angry/casual etc.).
-
-**Use Case**: Business professionals can analyze email communications to understand tone and sentiment, improving workplace communication and relationship management.
-
-**Key Features:**
-- Email tone identification
-- Communication sentiment analysis
-- Workplace relationship optimization
-- Professional communication insights
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/email-tone-analyzer-8c12f76b/)
-
----
-
-### Webpage Summarizer Agent
-**Description**: Agent that can summarize webpages, PDFs, and YouTube videos.
-
-**Use Case**: Researchers and busy professionals can quickly get concise summaries of long-form content, enabling faster decision-making and information processing.
-
-**Key Features:**
-- Multi-format content summarization
-- Quick information processing
-- Research efficiency improvement
-- Time-saving content analysis
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/webpage-summarizer-26b01b77)
-
----
-
-## 📬 About Me
-
-I'm Kamal Boro, a Senior Scrum Master and Agile Coach with over 15 years of experience in technology and process optimization. Currently leading agile transformation at President's Choice Financial, I combine my expertise in project management, lean methodologies, and technology to create AI solutions that solve real business problems.
-
-With certifications in PMP, Scrum Master, SAFe Agilist, and Lean Six Sigma Black Belt, I understand the importance of efficient workflows and continuous improvement. These AI agents represent my commitment to leveraging technology for enhanced productivity and streamlined processes.
-
-### Let's Connect
-
-Interested in custom AI solutions for your business? I specialize in:
-- **AI Workflow Automation**
-- **Process Optimization through AI**
-- **Custom Agent Development**
-- **Agile AI Implementation**
-
-[📬 Contact me](mailto:kamal.boro@example.com) or [Connect on LinkedIn](https://www.linkedin.com/in/kamal-boro)
+*Let's discuss how AI can streamline your operations and drive business growth.*
